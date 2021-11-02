@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pirasp! My name is Johannnes
+- 👀 I’m interested in pretty much anything as long as I can see the practical application
+- 🌱 I’m currently learning OpenGL
+- 💞️ I’m looking to collaborate on something interesting, possibly VR related
+- 📫 How to reach me: johanneshofer@gmx.net
